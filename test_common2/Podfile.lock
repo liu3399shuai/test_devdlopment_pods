@@ -1,0 +1,22 @@
+PODS:
+  - Masonry (1.1.0)
+  - module_login (0.1.2)
+  - SVPullToRefresh (0.4.1)
+
+DEPENDENCIES:
+  - Masonry
+  - module_login (from `https://raw.githubusercontent.com/liu3399shuai/module_login/master/module_login.podspec`)
+  - SVPullToRefresh
+
+EXTERNAL SOURCES:
+  module_login:
+    :podspec: https://raw.githubusercontent.com/liu3399shuai/module_login/master/module_login.podspec
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  module_login: cc2d3122864c0fb5ceba66ec692ed53afab27b8b
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+
+PODFILE CHECKSUM: 489c3ef599355d1b4e738595f5f825831fd068a9
+
+COCOAPODS: 1.4.0

@@ -1,0 +1,19 @@
+platform :ios, ‘8.0’
+
+target 'test_common2’ do
+
+pod 'SVPullToRefresh'
+pod 'Masonry'
+
+#pod 'module_login', :path => "/Users/liu/Desktop/majiabao/wechat_choice/test_common2/module_login"
+
+pod 'module_login', :podspec => 'https://raw.githubusercontent.com/liu3399shuai/module_login/master/module_login.podspec’
+
+#pod 'module_login', :podspec => './MMM/module_login.podspec’
+
+#pod 'AFNetworking'
+
+end
+
+
+
